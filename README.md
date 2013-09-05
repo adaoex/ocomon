@@ -1,21 +1,13 @@
-#
-# OcoMon - versão 2.0RC6
-# Data: Setembro de 2009
-# Autor: Flávio Ribeiro (flaviorib@gmail.com)
-#
-# Linceça: GPL
-#
 
-
-ATENÇÃO:
-=========
+OcoMon
+======
 
 Se você deseja instalar o OcoMon por conta própria, é necessário que saiba o que é um servidor WEB e conheça o processo genérico de instalação de sistemas WEB. Além disso, é necessário ter conhecimento mínimo em MySQL (processo de criação de banco e importação de tabelas bem como criação de usuários e permissões de acesso) e PHP.
 
 Caso não tenha os requisitos citados, recomendo que encarregue a tarefa de instalação do OcoMon a outra pessoa que atenda os mesmos.
 
 
-LEIA ESSE ARQUIVO ATÉ O FINAL!!!!!!!
+LEIA ESSE ARQUIVO ATÉ O FIM!!!!!!!
 
 
 REQUISITOS:
